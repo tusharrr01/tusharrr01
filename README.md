@@ -2,8 +2,8 @@
   
   <!-- Dynamic 3D Header -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=TUSHAR+KAKLOTAR;FULL+STACK+ARCHITECT;SYSTEMS+THAT+SCALE;CREATIVE+TECHNOLOGIST">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=TUSHAR+KAKLOTAR;FULL+STACK+ARCHITECT;SYSTEMS+THAT+SCALE;CREATIVE+TECHNOLOGIST">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=TUSHAR+KAKLOTAR;THE+NOOB;MERN+STACK+ARCHITECT;CATS+ARE+LOVE;">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=TUSHAR+KAKLOTAR;THE+NOOB;MERN+STACK+ARCHITECT;CATS+ARE+LOVE;">
   </picture>
 
   <!-- Animated Gradient Border -->
@@ -51,7 +51,6 @@
       <br>Express.js
     </td>
   </tr>
-
 
   <tr>
     <td align="center" width="110">
@@ -126,11 +125,7 @@
       <br>Canva
     </td>
   </tr>
-
-
 </table>
-
-
 
 ---
 
@@ -213,31 +208,23 @@
 <div align="center">
   
   <!-- Social Links with Unified Tokyonight Design -->
-  <a href="https://linkedin.com/in/tusharrr01">
+  <a href="https://www.linkedin.com/in/tusharkaklotar">
     <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/tusharrr01">
+  <a href="https://leetcode.com/u/e44or/">
     <img src="https://img.shields.io/badge/-LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
   </a>
-  <a href="https://tryhackme.com/p/tusharrr01">
+  <a href="https://tryhackme.com/p/ErrOr">
     <img src="https://img.shields.io/badge/-TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF" alt="TryHackMe" />
   </a>
-  <a href="https://instagram.com/tusharrr01">
+  <a href="https://www.instagram.com/tusharrx1">
     <img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
-  <a href="https://twitter.com/tusharrr01">
-    <img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter" />
-  </a>
-
 </div>
 
 ---
 
 <div align="center">
-  
-  <!-- Interactive Quote Generator -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
-  
   <!-- Dynamic Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=120&section=footer&text=✨%20Code%20with%20purpose.%20Build%20with%20passion.%20✨&fontSize=16&fontColor=ffffff&animation=twinkling" width="100%" />
   
@@ -249,5 +236,4 @@
       <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
     </div>
   </details>
-  
 </div>
