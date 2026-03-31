@@ -243,12 +243,10 @@
   
   <!-- Secret Easter Egg - Hover Effect -->
   <details>
-    <summary><code>system_info --easter_egg</code></summary>
+    <summary><code>cat my_brain --everytime</code></summary>
     <br>
     <div align="center">
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
-      <p><i>"The best error message is the one that never shows up."</i></p>
-      <p>⚡ 42% of my code is coffee ☕ • 58% is pure logic 🧠</p>
+      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
     </div>
   </details>
   
