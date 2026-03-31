@@ -91,7 +91,7 @@
       <br>Java
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=leetcode" alt="React" width="45" height="45" />
+      <img src="./svg/leetcode.svg" alt="React" width="45" height="45" />
       <br>LeetCode
     </td>
     <td align="center" width="110">
@@ -108,6 +108,25 @@
     </td>
   </tr>
 
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=linux" alt="React" width="45" height="45" />
+      <br>Linux
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=kali" alt="React" width="45" height="45" />
+      <br>Kali Linux
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=redhat" alt="React" width="45" height="45" />
+      <br>RedHat
+    </td>
+    <td align="center" width="110">
+      <img src="./svg/canva.svg" alt="React" width="45" height="45" />
+      <br>Canva
+    </td>
+  </tr>
+
 
 </table>
 
@@ -120,49 +139,44 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center">💰 Cashfree Payment Core</h3>
       <div align="center">
-        <a href="https://github.com/tusharrr01/cashfree-payment">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tusharrr01&repo=cashfree-payment&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="Cashfree Project">
-        </a>
-        <p><strong>Enterprise payment gateway integration with advanced fraud detection</strong></p>
-        <p>React • Node.js • Redis • Stripe API</p>
+        <h3><a href="https://github.com/tusharrr01/Sudoku">🎮 Sudoku</a></h3>
+        <p>Competitive multiplayer puzzle game with WebSocket synchronization</p>
+        <p><code>Next.js</code> • <code>Socket.io</code> • <code>TailwindCSS</code> • <code>MongoDB</code></p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🎮 Real-time Sudoku Arena</h3>
       <div align="center">
-        <a href="https://github.com/tusharrr01/sudoku-multiplayer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tusharrr01&repo=sudoku-multiplayer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="Sudoku Project">
-        </a>
-        <p><strong>Competitive multiplayer puzzle game with WebSocket synchronization</strong></p>
-        <p>Next.js • Socket.io • TailwindCSS • MongoDB</p>
+        <h3><a href="https://github.com/tusharrr01/PotatoPress-React">🥔 PotatoPress-React</a></h3>
+        <p>React-based frontend solution for PotatoPress</p>
+        <p><code>React</code> • <code>Vite</code> • <code>Frontend Design</code></p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 AI Telegram Automator</h3>
       <div align="center">
-        <a href="https://github.com/tusharrr01/telegram-ai-bot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tusharrr01&repo=telegram-ai-bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="Telegram Bot">
-        </a>
-        <p><strong>Smart automation bot with NLP capabilities and custom workflows</strong></p>
-        <p>Python • OpenAI API • Telethon • Redis</p>
+        <h3><a href="https://github.com/tusharrr01/KeyKhoji">🔑 KeyKhoji</a></h3>
+        <p>Platform to discover and manage essential keys seamlessly</p>
+        <p><code>Web Development</code> • <code>React Ecosystem</code></p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">📊 ML Analytics Hub</h3>
       <div align="center">
-        <a href="https://github.com/tusharrr01/ml-analytics">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tusharrr01&repo=ml-analytics&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="ML Analytics">
-        </a>
-        <p><strong>Real-time data visualization and predictive analytics dashboard</strong></p>
-        <p>Python • Pandas • Plotly • FastAPI • React</p>
+        <h3><a href="https://github.com/tusharrr01/Birthday-Wishes-">🎂 Birthday Wishes</a></h3>
+        <p>Virtual celebration experience with beautiful animations</p>
+        <p><code>React</code> • <code>Vite</code> • <code>Animations</code></p>
       </div>
     </td>
   </tr>
 </table>
+
+<br>
+<div align="center">
+  <a href="https://github.com/tusharrr01?tab=repositories">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=+++🚀+EXPLORE+ALL+PROJECTS+++;++CLICK+TO+VIEW+MORE+REPOSITORIES++" alt="Explore All Projects" />
+  </a>
+</div>
 
 ---
 
