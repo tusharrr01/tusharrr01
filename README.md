@@ -6,9 +6,20 @@
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=TUSHAR+KAKLOTAR;THE+NOOB;MERN+STACK+ARCHITECT;CATS+ARE+LOVE;">
   </picture>
 
+
+
   <!-- Animated Gradient Border -->
   <img src="https://raw.githubusercontent.com/tusharrr01/tusharrr01/output/github-contribution-grid-snake-dark.svg" width="100%">
   
+</div>
+
+<!-- Portfolio Link -->
+<div> 
+<p align="center">
+  <a href="https://portfolio-tushar-kaklotar.vercel.app/">
+    <img src="https://img.shields.io/badge/🔥_VISIT_MY_PORTFOLIO_%E2%86%92-0D1117?style=for-the-badge&logo=vercel&logoColor=00F7FF&color=00F7FF&labelColor=0D1117" alt="Portfolio" />
+  </a>
+</p>
 </div>
 
 <!-- Modern Profile Badges -->
@@ -230,10 +241,9 @@
   
   <!-- Secret Easter Egg - Hover Effect -->
   <details>
-    <summary><code>cat my_brain --everytime</code></summary>
-    <br>
+    <summary>&nbsp;<h3`><kbd>&nbsp;cat my_brain --everytime&nbsp;</kbd></h2>&nbsp; <i>(click me)</i>⚡</summary>
     <div align="center">
-      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
+      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" />
     </div>
   </details>
 </div>
