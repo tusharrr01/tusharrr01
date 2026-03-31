@@ -170,12 +170,12 @@
     </td>
   </tr>
 </table>
-
-<br>
 <div align="center">
+  <br>
   <a href="https://github.com/tusharrr01?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=+++🚀+EXPLORE+ALL+PROJECTS+++;++CLICK+TO+VIEW+MORE+REPOSITORIES++" alt="Explore All Projects" />
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS_%E2%86%92-00F7FF?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=0D1117&color=00F7FF" alt="Explore All Projects" />
   </a>
+  <br><br>
 </div>
 
 ---
@@ -184,37 +184,26 @@
 
 <div align="center">
   
-  <!-- Modern Stats Grid -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tusharrr01&theme=tokyonight&show_icons=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&bg_color=0D1117" />
+  <!-- Modern Stats Grid with Fallback URL -->
+  <img width="49%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tusharrr01&theme=tokyonight&show_icons=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&bg_color=0D1117" />&nbsp;<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharrr01&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakNum=00F7FF" />
   
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharrr01&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakNum=00F7FF" />
-  
+
   <!-- 3D Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharrr01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&radius=8&area=true&area_color=00F7FF" width="98%" />
   
-  <!-- Language Stats with Modern Layout -->
-  <!-- Fix: This card requires Wakatime to be public on your profile settings -->
-  <img width="98%" src="https://github-readme-stats.vercel.app/api/wakatime?username=tusharrr01&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
-  
+
 </div>
 
 ---
 
-### 🏆 Achievement Dashboard
+### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tusharrr01&theme=tokyonight&no-frame=true&column=6&margin-w=15&margin-h=15" width="98%" />
-</div>
-
----
-
-### 🌌 Tech Universe
-
-<div align="center">
-  
-  <!-- Animated Tech Stack -->
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,django,flask,fastapi,redis,nginx,docker,kubernetes,aws,gcp,graphql,apollo,prisma,tailwind,figma,git,github,linux,vscode,postman&perline=9" />
-  
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="130" alt="Pull Shark" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="130" alt="YOLO" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="130" alt="Quickdraw" />
 </div>
 
 ---
@@ -223,23 +212,23 @@
 
 <div align="center">
   
-  <!-- Social Links with Modern Design -->
+  <!-- Social Links with Unified Tokyonight Design -->
   <a href="https://linkedin.com/in/tusharrr01">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A&color=0077B5" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/tusharrr01">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0A0A0A&color=FFA116" />
+    <img src="https://img.shields.io/badge/-LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
   </a>
   <a href="https://tryhackme.com/p/tusharrr01">
-    <img src="https://img.shields.io/badge/TryHackMe-111928?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0A0A0A&color=111928" />
+    <img src="https://img.shields.io/badge/-TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=FFFFFF" alt="TryHackMe" />
   </a>
   <a href="https://instagram.com/tusharrr01">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0A0A&color=E4405F" />
+    <img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
   <a href="https://twitter.com/tusharrr01">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0A0A0A&color=1DA1F2" />
+    <img src="https://img.shields.io/badge/-Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter" />
   </a>
-  
+
 </div>
 
 ---
