@@ -17,7 +17,7 @@
 <div> 
 <p align="center">
   <a href="https://portfolio-tushar-kaklotar.vercel.app/">
-    <img src="https://img.shields.io/badge/🔥_VISIT_MY_PORTFOLIO_%E2%86%92-0D1117?style=for-the-badge&logo=vercel&logoColor=00F7FF&color=00F7FF&labelColor=0D1117" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🔥_VISIT_MY_PORTFOLIO_%E2%86%92-00F7FF?style=for-the-badge&logo=vercel&logoColor=00F7FF&color=00F7FF&labelColor=0D1117" alt="Portfolio" />
   </a>
 </p>
 </div>
@@ -241,7 +241,7 @@
   
   <!-- Secret Easter Egg - Hover Effect -->
   <details>
-    <summary>&nbsp;<h3`><kbd>&nbsp;cat my_brain --everytime&nbsp;</kbd></h2>&nbsp; <i>(click me)</i>⚡</summary>
+    <summary>&nbsp;<b><kbd>&nbsp;cat my_brain --everytime&nbsp;</kbd></b>&nbsp; <i>(click me)</i> ⚡</summary>
     <div align="center">
       <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" />
     </div>
