@@ -27,38 +27,91 @@
 <table align="center">
   <tr>
     <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=html" alt="React" width="45" height="45" />
+      <br>HTML
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="React" width="45" height="45" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=css" alt="React" width="45" height="45" />
+      <br>CSS
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="React" width="45" height="45" />
+      <br>TailwindCSS
+    </td>
+    <td align="center" width="110">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
-      <br>React
+      <br>React.js
     </td>
     <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="45" height="45" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="45" height="45" />
-      <br>Nginx
-    </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="45" height="45" />
-      <br>Docker
-    </td>
-    <td align="center" width="110">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45" />
-      <br>K8s
+      <img src="https://skillicons.dev/icons?i=expressjs" alt="React" width="45" height="45" />
+      <br>Express.js
     </td>
   </tr>
+
+
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="React" width="45" height="45" />
+      <br>Node.js
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="React" width="45" height="45" />
+      <br>REST API
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="React" width="45" height="45" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="React" width="45" height="45" />
+      <br>MySQL
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postman" alt="React" width="45" height="45" />
+      <br>Postman
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="React" width="45" height="45" />
+      <br>C++
+    </td>
+
+  </tr>
+
+  <tr>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="React" width="45" height="45" />
+      <br>Python
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="React" width="45" height="45" />
+      <br>Java
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=leetcode" alt="React" width="45" height="45" />
+      <br>LeetCode
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git" alt="React" width="45" height="45" />
+      <br>Git
+    </td>
+    <td align="center" width="110">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="React" width="45" height="45" />
+      <br>GitHub
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="React" width="45" height="45" />
+      <br>VSCode
+    </td>
+  </tr>
+
+
 </table>
 
-<div align="center">
-  
-  ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  
-</div>
+
 
 ---
 
