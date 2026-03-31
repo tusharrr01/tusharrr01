@@ -15,13 +15,7 @@
   
 </div>
 
-<!-- Portfolio Link -->
-<p align="center">
-  <br>
-  <a href="https://portfolio-tushar-kaklotar.vercel.app/">
-    <img src="https://img.shields.io/badge/🔥_VISIT_MY_PORTFOLIO_%E2%86%92-00F7FF?style=for-the-badge&logo=vercel&logoColor=00F7FF&color=00F7FF&labelColor=0D1117" alt="Portfolio" />
-  </a>
-</p>
+
 
 <!-- Modern Profile Badges -->
 <p align="center">
@@ -32,6 +26,18 @@
 </p>
 
 ---
+
+
+<!-- Portfolio Link -->
+<p align="center">
+  <br>
+  <a href="https://portfolio-tushar-kaklotar.vercel.app/">
+    <img src="https://img.shields.io/badge/🔥_VISIT_MY_PORTFOLIO_%E2%86%92-00F7FF?style=for-the-badge&logo=vercel&logoColor=00F7FF&color=00F7FF&labelColor=0D1117" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
 
 ### ⚡ The Architect's Stack
 
